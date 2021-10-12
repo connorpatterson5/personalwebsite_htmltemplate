@@ -142,17 +142,12 @@ a.bio:active {
 		}
 		a.github:hover {
 			border-bottom-color: transparent;
-			color: #a2a1a1 !important;
+			color: #b3b3b3 !important;
 			text-decoration: none;
 		}
 		a.resume:hover {
 			border-bottom-color: transparent;
 			color: #b3b3b3 !important;
-			text-decoration: none;
-		}
-		a.email:hover{
-			border-bottom-color: transparent;
-			color: #f3cdcd !important;
 			text-decoration: none;
 		}
 
